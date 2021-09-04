@@ -160,13 +160,13 @@ a {
 .foot-left {
   justify-content: flex-start;
   display: block;
-  padding: 15px;
+  padding: 2px 15px;
   white-space: nowrap;
 }
 .foot-right {
   justify-content: flex-end;
   display: block;
-  padding: 15px;
+  padding: 2px 15px;
   white-space: nowrap;
 }
 button {
